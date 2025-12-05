@@ -9,7 +9,7 @@ GitHub: **[https://github.com/bunmiafolabi](https://github.com/bunmiafolabi)**
 
 # **Professional Summary**
 
-Technical Customer Success professional with strong foundations in web development (HTML, CSS, JavaScript, UI/UX) and experience supporting SaaS, e-commerce, and web-technology customers. Skilled in diagnosing frontend issues, performing live walkthroughs, and guiding users through product features. Adept at handling tickets, documenting cases, and escalating issues using structured support workflows. Fluent in English (CEFR C1), experienced in remote collaboration across multiple time zones, and capable of delivering high-quality customer service in fast-paced environments.
+Technical Customer Success professional with strong foundations in web development (HTML, CSS, JavaScript, UI/UX) and experience supporting SaaS, e-commerce, and web-technology customers. Skilled in diagnosing frontend issues, performing live walkthroughs, and guiding users through product features. Adept at handling tickets, documenting cases, and escalating issues using structured support workflows. Fluent in English, experienced in remote collaboration across multiple time zones, and capable of delivering high-quality customer service in fast-paced environments.
 
 ---
 
