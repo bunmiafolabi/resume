@@ -78,7 +78,7 @@ Technical Customer Success professional with a strong foundation in web developm
 
 # **Education**
 
-**HND – Yaba College of Technology**, Lagos, Nigeria
+**HND – Yaba College of Technology**, Lagos, Nigeria  
 Focus: Web Design, Computer Science Foundations, UI/UX, HTML, CSS, JavaScript
 
 ---
